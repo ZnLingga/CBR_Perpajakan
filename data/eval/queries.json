@@ -1,0 +1,14 @@
+[
+  {
+    "query_id": "Q1",
+    "query": "pengusaha tidak membayar pajak selama 3 tahun"
+  },
+  {
+    "query_id": "Q2",
+    "query": "keberatan wajib pajak atas SKPKB"
+  },
+  {
+    "query_id": "Q3",
+    "query": "pengajuan banding pajak terhadap putusan pengadilan pajak"
+  }
+]

@@ -1,0 +1,2 @@
+Model,Retrieval Accuracy,Prediction Accuracy,Precision,Recall,F1-Score
+TF-IDF + Majority Voting,0.67,0.33,0.11,0.33,0.17
